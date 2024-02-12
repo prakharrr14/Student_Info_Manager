@@ -27,4 +27,33 @@ public class Student {
     @NaturalId(mutable = true)
     private String email;
     private String department;
+//	public String getEmail() {
+//		// TODO Auto-generated method stub
+//		return email;
+//	}
+//	public Object getFirstName() {
+//		return firstName;
+//	}
+//	public void setFirstName(Object firstName2) {
+//		
+//		firstName= (String) firstName2;
+//		
+//	}
+//	public Object getLastName() {
+//		return lastName;
+//	}
+//	public void setLastName(Object lastName2) {
+//		lastName = (String) lastName2;
+//		
+//	}
+//	public void setEmail(String email2) {
+//		email = email2;
+//		
+//	}
+//	public Object getDepartment() {
+//		return department;
+//	}
+//	public void setDepartment(Object department2) {
+//		department = (String) department2; 
+//	}
 }
